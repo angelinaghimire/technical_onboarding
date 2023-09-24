@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Angelina Ghimire",
-  title: "",
+  title: "Computer Science Student | Data Science and ML Enthusiast | Frontend Developer",
   email: "ghimireangelina123@gmail.com",
   gitHub: "https://github.com/angelinaghimire",
   instagram: "https://www.instagram.com/angelinaghimire/",

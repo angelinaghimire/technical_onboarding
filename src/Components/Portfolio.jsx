@@ -33,15 +33,16 @@ const projectList = [
   {
     title: "My Resume",
     description:
-      "Link to my Resume",
+      "Take a look at my Education, Work and Volunteer Experiences as well as other Certifications and Honors.",
     url: "https://drive.google.com/file/d/11oz87seV_jUyvQeYq78GSBzicqdus2s1/view?usp=drive_link",
   },
+
 ];
 
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
-      <h2 style={{ textAlign: "center" }}>Portfolio</h2>
+      <h2 style={{ textAlign: "center" }}>Let's stay in touch. Reach out to me!</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
