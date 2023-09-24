@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../__images__/bg2.jpeg";
+import image from "../images/bg2.jpeg";
 
 const imageAltText = "smoky blue abstract background";
 
