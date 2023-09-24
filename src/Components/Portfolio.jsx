@@ -30,10 +30,29 @@ const imageAltText = "book, copy and pen";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
+
+  {
+    title: "Kathmandu University Computer Club",
+    description:
+      "I am the Vice President of our college computer club - KUCC",
+    url: "https://kucc.ku.edu.np/",
+  },
+  {
+    title: "AI/ML Nepal",
+    description:
+      "I am a core community member at t AI/ML Nepal - a pay-it-forward community of AI/ML proffesionals and enthusisasts .",
+    url: "https://www.aimlnepal.com/",
+  },
+  {
+    title: "Microsoft Learn Student Ambassador",
+    description:
+      "I am currently an Alpha MLSA. I am working on upgrading to the Beta MLSA badge.",
+    url: "https://drive.google.com/file/d/11oz87seV_jUyvQeYq78GSBzicqdus2s1/view?usp=drive_link",
+  },
   {
     title: "My Resume",
     description:
-      "Take a look at my Education, Work and Volunteer Experiences as well as other Certifications and Honors.",
+      "Take detailed a look at my Education, Work and Volunteer Experiences as well as other Certifications and Honors.",
     url: "https://drive.google.com/file/d/11oz87seV_jUyvQeYq78GSBzicqdus2s1/view?usp=drive_link",
   },
 
@@ -42,7 +61,7 @@ const projectList = [
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
-      <h2 style={{ textAlign: "center" }}>Let's stay in touch. Reach out to me!</h2>
+      <h2 style={{ textAlign: "center" }}>My Involvements</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
