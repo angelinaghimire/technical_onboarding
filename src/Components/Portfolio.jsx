@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/book.jpeg";
+import image from "../images/desk.jpeg";
 
 const imageAltText = "book, copy and pen";
 
@@ -40,7 +40,7 @@ const projectList = [
   {
     title: "AI/ML Nepal",
     description:
-      "I am a core community member at t AI/ML Nepal - a pay-it-forward community of AI/ML proffesionals and enthusisasts .",
+      "I am a core community member at AI/ML Nepal - a pay-it-forward community of AI/ML proffesionals and enthusisasts.",
     url: "https://www.aimlnepal.com/",
   },
   {
