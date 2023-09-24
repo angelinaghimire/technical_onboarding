@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "/Users/angelinaghimire/Documents/GitHub/technical_onboarding/__images__/Untitled design.png";
+import image from "../__images__/Untitled design.png";
 
 const imageAltText = "My pictyre against a blue and white gradient background.";
 
